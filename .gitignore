@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+Архив.zip
+Архив 2.zip
 
 # local env files
 .env.local
